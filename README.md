@@ -13,5 +13,5 @@
 
 Look at my Github stats 👇🏽
 
-[![unleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=uendellima&show_icons=true&theme=transparent)](https://github.com/uendellima)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uendellima&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/uendellima)
+[![unleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=unleed-l&show_icons=true&theme=transparent)](https://github.com/unleed-l)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unleed-l&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/unleed-l)
