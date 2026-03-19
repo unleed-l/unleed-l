@@ -1,6 +1,6 @@
 ## Hi guys, unleed here!
 
-- 📱 Mobile Developer at Objetivo Sistemas (Dart/Flutter)
+- 📱 Mobile Developer at Polisystem (Dart/Flutter)
 - 🌱 Learning React Native, NodeJs and NextJs.
 - 🎮 Gamer
 
